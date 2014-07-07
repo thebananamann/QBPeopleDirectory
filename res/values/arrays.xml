@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="designation">
+        <item>Choose one. .</item>
+        <item>Trainee</item>
+        <item>Software Engineer</item>
+        <item>Senior Software Engineer</item>
+        <item>Lead Engineer</item>
+        <item>Associate Architect</item>
+        <item>Senior Architect</item>
+        <item>Associate Project Manager</item>
+        <item>Project Manager</item>
+        <item>Director</item>
+    </string-array>
+    
+     <string-array name="location">
+          <item>Choose one. .</item>
+        <item>Leela IP</item>
+        <item>Leela TVM</item>
+        <item>Technopark</item>
+        <item>Koratty</item>
+        <item>Calicut</item>
+    </string-array>
+<string-array name="skills">
+    <item>Choose one. .</item>
+        <item>C Programming</item>
+        <item>C++</item>
+        <item>Android</item>
+        <item>HTML</item>
+        <item>Java</item>
+        <item>iOS</item>
+        <item>PHP</item>
+        <item>Corel Draw</item>
+        <item>Data Analysis</item>
+        <item>Django</item>
+        <item>Python</item>
+        <item>Eclipse</item>
+        <item>Embedded C</item>
+        <item>JavaScript</item>
+        <item>Matlab</item>
+        <item>mySql</item>
+        <item>Ruby</item>
+        <item>VB.NET</item>
+        <item>XML</item>
+    </string-array>
+</resources>

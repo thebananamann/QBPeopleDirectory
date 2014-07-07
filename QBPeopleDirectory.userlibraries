@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="libs">
+    <archive path="/home/qbuser/QBPeopleDirectory/libs/Parse-1.5.1.jar" />
+    <archive path="/home/qbuser/QBPeopleDirectory/libs/android-support-v4.jar" />
+  </library>
+  <library name="dexedLibs">
+    <archive path="/home/qbuser/QBPeopleDirectory/bin/dexedLibs/android-support-v4-bf86bbb7ed3c32a47ab0810658444203.jar" />
+    <archive path="/home/qbuser/QBPeopleDirectory/bin/dexedLibs/Parse-1.5.1-fdb46c36be441ca6d4065a3c77dbde0b.jar" />
+  </library>
+</eclipse-userlibraries>
+
